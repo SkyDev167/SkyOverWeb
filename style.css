@@ -1,0 +1,36 @@
+h1
+{
+    color: darkblue;
+}
+
+body
+{
+      background-color: grey;
+} 
+
+#carte
+
+{
+
+ width: 1000px;
+
+margin:0 auto;
+
+background-color: orange;
+
+text-align: center;
+
+align-content: center;
+
+}
+
+h2
+{  
+    color:darkcyan;
+}
+
+h3
+{  
+    color:aqua;
+}
+
