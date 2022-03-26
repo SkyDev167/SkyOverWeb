@@ -1,0 +1,52 @@
+form {
+    background-color: #252525;
+    border-radius: 10px;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+  }
+  form button {
+    padding: 10px;
+    font-size: 20px;
+    background-color: #050138;
+    color: white;
+    cursor: pointer;
+    outline: none;
+    border: none;
+    border-radius: 10px;
+  }
+  input {
+    padding: 10px;
+    outline: none;
+    border: none;
+    margin-bottom: 10px;
+    border-radius: 5px;
+  }
+  
+  #allUsers {
+    margin-top: 20px;
+    padding: 20px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    background-color: #252525;
+  }
+  #allUsers h3 {
+    color: white;
+    font-family: Verdana, sans-serif;
+  }
+  #allUsers div {
+    margin-bottom: 10px;
+  }
+  #allUsers div input {
+    margin-right: 5px;
+  }
+  #allUsers div input.Supprimer {
+    background-color: red;
+    color: white;
+  }
+  #allUsers div input.Modifier {
+    background-color: yellow;
+  }
+  
